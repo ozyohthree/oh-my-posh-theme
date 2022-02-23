@@ -98,7 +98,7 @@
           "foreground": "#00c200",
           "properties": {
             "prefix": "",
-            "text": "<b>$</b>"
+            "text": "$"
           }
         }
       ]
