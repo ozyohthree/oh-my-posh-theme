@@ -81,7 +81,7 @@
           "leading_diamond": "<transparent,background>\uE0B0</>",
           "trailing_diamond": "\uE0B4",
           "properties": {
-            "template": "\uFC0C",
+            "template": "{{ if gt .Code 0 }}\ufb4a{{ else }}\ufc0c{{ end }}",
             "always_enabled": true
           }
         }
