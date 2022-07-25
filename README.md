@@ -11,5 +11,5 @@ My Oh-my-posh theme file
 
 - Download and install JetBrainsMono Nerd Font Mono:
 
-> https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono
+> https://github.com/ozyohthree/nerd-fonts/tree/master/patched-fonts/JetBrainsMono
 
